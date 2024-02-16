@@ -1,0 +1,19 @@
+{
+    "go_command": [
+      "./main",
+      "-cons.address=",
+      "-exec.address=",
+      "-json"
+    ],
+    "dotnet_command": [
+      "./main",
+      "-cons.address=",
+      "-exec.address=",
+      "-json"
+    ],
+    "days": {
+      "start_day": 4,
+      "end_day": 5,
+      "batch_size": 1
+    }
+  }
