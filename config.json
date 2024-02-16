@@ -15,5 +15,8 @@
       "start_day": 4,
       "end_day": 5,
       "batch_size": 1
-    }
+    },
+
+    "go_file": "go.json",
+    "dotnet_file": "dotnet.json"
   }

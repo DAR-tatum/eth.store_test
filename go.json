@@ -1,0 +1,32 @@
+[
+    {
+            "day": "4",
+            "dayTime": "2020-12-05T04:00:23-08:00",
+            "apr": "0.1776753934212398",
+            "validators": "24475",
+            "startEpoch": "800",
+            "effectiveBalanceGwei": "783200000000000",
+            "startBalanceGwei": "784876667325026",
+            "endBalanceGwei": "785257914908937",
+            "depositsSumGwei": "0",
+            "withdrawalsSumGwei": "0",
+            "consensusRewardsGwei": "381247583911",
+            "txFeesSumWei": "0",
+            "totalRewardsWei": "381247583911000000000"
+    },
+    {
+            "day": "5",
+            "dayTime": "2020-12-06T04:00:23-08:00",
+            "apr": "0.1757163280519889",
+            "validators": "25375",
+            "startEpoch": "1125",
+            "effectiveBalanceGwei": "812000000000000",
+            "startBalanceGwei": "814096718018909",
+            "endBalanceGwei": "814487626672000",
+            "depositsSumGwei": "0",
+            "withdrawalsSumGwei": "0",
+            "consensusRewardsGwei": "390908653091",
+            "txFeesSumWei": "0",
+            "totalRewardsWei": "390908653091000000000"
+    }
+]
